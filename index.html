@@ -35,7 +35,7 @@
                         <a class="nav-link" href="#services">Serviços</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#work">Portfólio</a>
+                        <a class="nav-link" href="#work">Projetos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#about">Sobre mim</a>
@@ -58,12 +58,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10">
-                        <h1 class="display-4 fw-bold" data-aos="fade-up">Olá! Bem-vindos !<span
-                                class="text-brand"></span></h1>
+                        <h1 class="display-4 fw-bold" data-aos="fade-up">Olá, <span class="text-brand">Bem-vindos</span>
+                        </h1>
                         <p class="lead mt-2 mb-4" data-aos="fade-up" data-aos-delay="300">Eu sou o Guilherme e
-                            atualmente estou atuando como Desenvolvedor de Software Java, já tendo desenvolvido alguns projetos
-                            e melhorias de features com grandes empresas como Drogarias São Paulo e Drogarias Pacheco
-                            utilizando a linguagem Java com foco para o Back-End. Sou um grande entusiasta por
+                            atualmente estou atuando como Desenvolvedor de Software Java, já tendo desenvolvido alguns
+                            projetos e melhorias com grandes empresas como Drogarias São Paulo e Drogarias
+                            Pacheco utilizando a linguagem Java com foco para o Back-End. Sou um grande entusiasta por
                             programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na
                             área em que eu atuo.
                             <br>
@@ -330,19 +330,22 @@
                     </div>
 
                     <div class="col-lg-8" data-aos="fade-up" data-aos-delay="300">
-                        <form class="row g-lg-3 gy-3">
+                        <form action="https://formspree.io/f/xkneqddz" method="POST" class="row g-lg-3 gy-3">
                             <div class="form-group col-md-6">
-                                <input type="text" class="form-control" placeholder="Digite seu nome">
+                                <input type="text" id="nome" name="nome" class="form-control"
+                                    placeholder="Digite seu nome" required>
                             </div>
                             <div class="form-group col-md-6">
-                                <input type="email" class="form-control" placeholder="Digite seu e-mail">
+                                <input type="email" id="email" name="email" class="form-control"
+                                    placeholder="Digite seu e-mail" required>
                             </div>
                             <div class="form-group col-12">
-                                <input type="text" class="form-control" placeholder="Digite o assunto">
+                                <input type="text" id="assunto" name="assunto" class="form-control"
+                                    placeholder="Digite o assunto" required>
                             </div>
                             <div class="form-group col-12">
-                                <textarea name="" rows="4" class="form-control"
-                                    placeholder="Digite sua mensagem"></textarea>
+                                <textarea rows="5" id="mensagem" name="mensagem" class="form-control"
+                                    placeholder="Digite sua mensagem" required></textarea>
                             </div>
                             <div class="form-group col-12 d-grid">
                                 <button type="submit" class="btn btn-brand">Contate-me</button>
