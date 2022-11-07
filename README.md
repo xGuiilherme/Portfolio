@@ -23,9 +23,9 @@ Meu portfólio criado com o objetivo de mostrar meus projetos.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML / CSS
-- JavaScript
-- Bootstrap
+- HTML e CSS.
+- JavaScript.
+- Bootstrap.
 
 ## 📚 Bibliotecas
 
