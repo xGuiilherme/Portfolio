@@ -9,7 +9,7 @@
 
 <br>
 
-![Resultado final do projeto](https://raw.githubusercontent.com/xGuiilherme/LandingPagePortfolio/master/assets/images/thumb.png)
+![Resultado final do projeto]()
 
 <br>
 
