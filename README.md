@@ -9,13 +9,13 @@
 
 <br>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](https://raw.githubusercontent.com/xGuiilherme/Portfolio/master/assets/images/thumb.png)
 
 <br>
 
 ## 📝 Descrição 
 
-Meu portfólio criado com o objetivo de mostrar meus projetos. 
+Portfólio criado com o objetivo de mostrar um pouco sobre mim e dos meus projetos.
 
 - Website: [guilhermemarin.vercel.app](https://guilhermemarin.vercel.app/)
 
